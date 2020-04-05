@@ -12,5 +12,8 @@ Jest,
 Supertest,
 Axios,
 Intl,
+Knex,
+Cors,
+Celebrate,
 SQLite.
 
