@@ -1,0 +1,20 @@
+{
+  "name": "omnistack11",
+  "version": "1.0.0",
+  "description": "A Semana OmniStack foi um workshop online produzido pela Rocketseat. Esta foi a versão 11, onde foi desenvolvida uma aplicação desde o backend até o frontend web e mobile. Com o nome de Be The Hero, a aplicação cadastra ONGs e casos cadastrados por elas para que outras pessoas possam ajudar a resolvê-los.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marzeu/omnistack11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marzeu/omnistack11/issues"
+  },
+  "homepage": "https://github.com/Marzeu/omnistack11#readme"
+}
